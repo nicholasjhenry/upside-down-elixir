@@ -263,13 +263,10 @@ Elixir source code ──────▶│    Compiler     │─────�
 
 ---
 
-# Demo
+# Part 1: Demo
 
 1. Code can be executed at compile-time
 2. Common confusion with run-time vs compile-time
-
-^
-1_demo.ex
 
 ---
 
