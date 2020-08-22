@@ -5,14 +5,13 @@ defmodule Part1Demo2 do
 
     def add1(x, y) do
       msg = @msg
-      IO.puts(msg)
+      IO.inspect(msg)
       x + y
     end
 
-    # restart iex
     def add2(x, y) do
       msg = System.get_env("MSG")
-      IO.puts(msg)
+      IO.inspect(msg)
       x + y
     end
   end
